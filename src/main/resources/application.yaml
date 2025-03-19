@@ -1,0 +1,2 @@
+spring.application.name: spring-line-webhook
+line.bot.channel-secret: 77147efaf070fba3d1f7cecc4d3e005e
